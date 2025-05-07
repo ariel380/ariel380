@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @ariel380
-- 👀 
+ # Bem-vindo ao meu Perfil! 
+
+- 👋 Olá, meu nome é Ariel Breno
+- 🏫 Aluno do UNICEUB do curso de ciência de dados e machine learning 
 
 
 <!---
