@@ -3,7 +3,9 @@
 - 👋 Olá, meu nome é Ariel Breno
 - 🏫 Aluno do UNICEUB do curso de ciência de dados e machine learning 
 
+- ### Meus Troféus
 
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=ariel380&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
  ## Conecte-se comigo no LinkedIn
 🔗 [Meu LinkedIn](https://www.linkedin.com/in/arielbreno)
