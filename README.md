@@ -1,8 +1,8 @@
  # Bem-vindo ao meu Perfil! 
 
-- 👋 Olá, meu nome é Ariel Breno
+- 👋 Olá, meu nome é sophia melo 
 - 🏫 Aluno do UNICEUB do curso de ciência de dados e machine learning
-
+   seja sempre CEUB...
 
 
 <div align="center">
