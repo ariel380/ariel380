@@ -14,7 +14,7 @@
 
 
  ## Conecte-se comigo no LinkedIn
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/arielbreno)
+🔗 [Meu LinkedIn]([https://www.linkedin.com/in/arielbreno](https://www.linkedin.com/in/ariel-breno))
 
 
 <div align="center">
